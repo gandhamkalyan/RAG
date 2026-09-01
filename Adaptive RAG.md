@@ -64,9 +64,13 @@ It's not limited to deciding RAG vs no RAG. It can adapt several things.
 For example: User Question > Query Analyzer / Router > Decides:
 
 1 Do I need retrieval?
+
 2.Which data source?
+
 3.Which retrieval technique?(Semantic Search,Key Word Search, Hybrid Search)
+
 4.How many documents?
+
 5.Do I need multiple retrieval steps?
 ---------------------------------------------------
 
