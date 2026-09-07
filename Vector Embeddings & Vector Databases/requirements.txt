@@ -1,0 +1,9 @@
+python-dotenv
+langchain_community
+langchain-text-splitters
+pandas
+matplotlib
+
+
+langchain-huggingface
+sentence-transformers
